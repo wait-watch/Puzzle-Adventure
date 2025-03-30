@@ -1,0 +1,26 @@
+# List of files to add to the Git staging area
+git add src/home_screen.py
+git add src/main.py
+git add src/achievements.py
+git add src/daily_challenges.py
+git add src/leaderboard.py
+git add src/friend_competitions.py
+git add src/splash_screen.py
+git add src/game_screen.py
+git add src/pause_screen.py
+git add src/victory_screen.py
+git add assets/README.md
+git add src/README.md
+git add config/README.md
+git add src/game_logic.py
+git add src/ui.py
+git add src/powerups.py
+git add src/levels.py
+git add src/match3.py
+git add src/rhythm.py
+git add src/scoring.py
+git add src/tests.py
+git add src/shop_screen.py
+git add src/profile_screen.py
+git add config/config.py
+git add docs/README.md
